@@ -1,0 +1,28 @@
+item,mimic_column,eicu_column,lower,upper,unit,sex_specific,previous_mimic_flag_column,normal_range
+WBC,wbc_max,WBC,4.0,11.0,10^9/L,False,filab_wbc_abn_first,4–11
+Platelets,platelet_max,PLT,150.0,440.0,10^9/L,False,filab_platelet_abn_first,150–440
+Hemoglobin,hemoglobin_max,Hb,,,g/dL,True,filab_hemoglobin_abn_first,Male 14–18; female 12–16
+Bilirubin,bilirubin_total_max,TBIL,0.0,1.5,mg/dL,False,filab_bilirubin_total_abn_first,0–1.5
+ALT,alt_max,ALT,0.0,40.0,U/L,False,filab_alt_abn_first,0–40
+Albumin,albumin_max,ALB,3.5,5.0,g/dL,False,filab_albumin_abn_first,3.5–5
+ALP,alp_max,ALP,35.0,105.0,U/L,False,filab_alp_abn_first,35–105
+LDH,ld_ldh_max,LDH,94.0,250.0,U/L,False,filab_ld_ldh_abn_first,94–250
+BUN,bun_max,BUN,6.0,20.0,mg/dL,False,filab_bun_abn_first,6–20
+Creatinine,creatinine_max,Scr,,,mg/dL,True,filab_creatinine_abn_first,Male 0.74–1.35; female 0.4–1.1
+Glucose,glucose_max,Glucose,70.0,110.0,mg/dL,False,filab_glucose_abn_first,70–110
+Potassium,potassium_max,K⁺,3.5,5.4,mmol/L,False,filab_potassium_abn_first,3.5–5.4
+Sodium,sodium_max,Na⁺,133.0,145.0,mmol/L,False,filab_sodium_abn_first,133–145
+Calcium,calcium_total_max,Total calcium,8.4,10.3,mg/dL,False,filab_calcium_abn_first,8.4–10.3
+Phosphate,phosphate_max,Phosphate,2.7,4.5,mg/dL,False,filab_phosphate_abn_first,2.7–4.5
+PT,pt_max,PT,9.4,12.5,s,False,filab_pt_abn_first,9.4–12.5
+INR,inr_max,INR,0.9,1.1,ratio,False,filab_inr_abn_first,0.9–1.1
+aPTT,ptt_max,aPTT,25.0,35.0,s,False,filab_ptt_abn_first,25–35
+Fibrinogen,fibrinogen_max,FIB,150.0,400.0,mg/dL,False,filab_fibrinogen_abn_first,150–400
+Troponin_T,troponin_t_max,Troponin T,0.0,0.01,ng/mL,False,filab_troponin_t_abn_first,0–0.01
+pH,ph_max,ph_first,7.35,7.45,ratio,False,filab_ph_arterial_abn_first,7.35–7.45
+PaO2,po2_max,pao2_first,85.0,105.0,mmHg,False,filab_pao2_abn_first,85–105
+PaCO2,pco2_max,paco2_first,35.0,45.0,mmHg,False,filab_paco2_abn_first,35–45
+Lactate,lactate_max,lactate_first,0.5,2.0,mmol/L,False,filab_lactate_abn_first,0.5–2
+SBP,sbp_max,SBP,90.0,140.0,mmHg,False,filab_sbp_abn_first,90–140
+DBP,dbp_max,DBP,60.0,90.0,mmHg,False,filab_dbp_abn_first,60–90
+Heart_rate,heart_rate_max,HR,60.0,99.0,beats/min,False,filab_heart_rate_abn_first,60–99

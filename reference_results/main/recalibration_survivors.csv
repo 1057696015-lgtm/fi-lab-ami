@@ -1,0 +1,21 @@
+scenario,model,state,metric,n,events,n_test,events_test,median,lower,upper,interval
+survivor24,without,Frozen,AUC,4223,451,2112,226,0.794456592122674,0.774266456845503,0.813722092925046,2.5th-97.5th split percentiles; not a confidence interval
+survivor24,without,Frozen,Brier,4223,451,2112,226,0.084648175341359,0.0818441494528638,0.0873661685579641,2.5th-97.5th split percentiles; not a confidence interval
+survivor24,without,Frozen,O_E,4223,451,2112,226,0.916574981444341,0.89117416406479,0.944172554318628,2.5th-97.5th split percentiles; not a confidence interval
+survivor24,without,Frozen,Intercept,4223,451,2112,226,-0.1140046232543,-0.152200550261419,-0.0746999962378319,2.5th-97.5th split percentiles; not a confidence interval
+survivor24,without,Frozen,Slope,4223,451,2112,226,0.986014376039764,0.89913319120347,1.08508406140928,2.5th-97.5th split percentiles; not a confidence interval
+survivor24,without,Recalibrated,AUC,4223,451,2112,226,0.794456592122674,0.774266456845503,0.813722092925046,2.5th-97.5th split percentiles; not a confidence interval
+survivor24,without,Recalibrated,Brier,4223,451,2112,226,0.0844136661378122,0.081943821517695,0.0875197685148893,2.5th-97.5th split percentiles; not a confidence interval
+survivor24,without,Recalibrated,O_E,4223,451,2112,226,1.00593890134277,0.949915379520965,1.06761756917403,2.5th-97.5th split percentiles; not a confidence interval
+survivor24,without,Recalibrated,Intercept,4223,451,2112,226,0.0075581877542966,-0.0674340708955313,0.0840720367179453,2.5th-97.5th split percentiles; not a confidence interval
+survivor24,without,Recalibrated,Slope,4223,451,2112,226,1.00666276852905,0.835003312759835,1.22130622993113,2.5th-97.5th split percentiles; not a confidence interval
+survivor24,with,Frozen,AUC,4223,451,2112,226,0.823132020758453,0.8059519843467,0.840895771356713,2.5th-97.5th split percentiles; not a confidence interval
+survivor24,with,Frozen,Brier,4223,451,2112,226,0.0826045787913213,0.0793626370949866,0.0857519636631913,2.5th-97.5th split percentiles; not a confidence interval
+survivor24,with,Frozen,O_E,4223,451,2112,226,0.940484819526239,0.906401077524895,0.974825677340169,2.5th-97.5th split percentiles; not a confidence interval
+survivor24,with,Frozen,Intercept,4223,451,2112,226,-0.0871757149794064,-0.140675312569612,-0.0359901519046067,2.5th-97.5th split percentiles; not a confidence interval
+survivor24,with,Frozen,Slope,4223,451,2112,226,0.868369818899507,0.798766687764027,0.951167496165873,2.5th-97.5th split percentiles; not a confidence interval
+survivor24,with,Recalibrated,AUC,4223,451,2112,226,0.823132020758453,0.8059519843467,0.840895771356713,2.5th-97.5th split percentiles; not a confidence interval
+survivor24,with,Recalibrated,Brier,4223,451,2112,226,0.0816391994670494,0.0789662215777227,0.0847488104978094,2.5th-97.5th split percentiles; not a confidence interval
+survivor24,with,Recalibrated,O_E,4223,451,2112,226,1.00652062949755,0.940071595715571,1.07457602224141,2.5th-97.5th split percentiles; not a confidence interval
+survivor24,with,Recalibrated,Intercept,4223,451,2112,226,0.008730962353413,-0.0839849051154876,0.094754419099831,2.5th-97.5th split percentiles; not a confidence interval
+survivor24,with,Recalibrated,Slope,4223,451,2112,226,1.00214140073393,0.844479384326598,1.20050042167604,2.5th-97.5th split percentiles; not a confidence interval

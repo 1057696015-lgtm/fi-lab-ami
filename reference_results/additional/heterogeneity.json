@@ -1,0 +1,22 @@
+{
+ "MIMIC-IV": {
+  "interaction_LR": 0.006256414473227778,
+  "interaction_P": 0.9369550721619111,
+  "interaction_coef": 0.0008521134078725612,
+  "interaction_se": 0.010772631755028347,
+  "category_interaction_LR_df2": 0.5060135739036014,
+  "category_interaction_P": 0.7764626119915322
+ },
+ "eICU": {
+  "interaction_LR": 6.786827051190812,
+  "interaction_P": 0.009183298962392342,
+  "interaction_coef": -0.02890813035123143,
+  "interaction_se": 0.011171112392402174,
+  "category_interaction_LR_df2": 5.7737808325036895,
+  "category_interaction_P": 0.05574930047513477
+ },
+ "check_overall": {
+  "AUC0": 0.793809503095513,
+  "AUC1": 0.8227081094680608
+ }
+}

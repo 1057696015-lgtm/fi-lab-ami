@@ -1,0 +1,94 @@
+{
+ "M": [
+  [
+   "Candidate AMI ICU records",
+   6638
+  ],
+  [
+   "Adult, first ICU record per hospitalization",
+   6638
+  ],
+  [
+   "One admission per patient",
+   6210
+  ],
+  [
+   "Valid hospital outcome and timing",
+   6198
+  ],
+  [
+   "Complete covariates",
+   6198
+  ],
+  [
+   "FI-Lab >=18 components",
+   4870
+  ],
+  [
+   "FI-Lab >=18 components and SOFA available",
+   4863
+  ],
+  [
+   "Excluded within 24 hours: deaths",
+   133
+  ],
+  [
+   "Excluded within 24 hours: other discharges",
+   7
+  ],
+  [
+   "Analysis cohort",
+   4723
+  ],
+  [
+   "Analysis cohort deaths",
+   639
+  ]
+ ],
+ "E": [
+  [
+   "Candidate AMI ICU records",
+   8730
+  ],
+  [
+   "Adult, first ICU record per hospitalization",
+   8329
+  ],
+  [
+   "One admission per patient",
+   8111
+  ],
+  [
+   "Valid hospital outcome and timing",
+   8055
+  ],
+  [
+   "Complete covariates",
+   8055
+  ],
+  [
+   "FI-Lab >=18 components",
+   4432
+  ],
+  [
+   "FI-Lab >=18 components and SOFA available",
+   4432
+  ],
+  [
+   "Excluded within 24 hours: deaths",
+   100
+  ],
+  [
+   "Excluded within 24 hours: other discharges",
+   109
+  ],
+  [
+   "Analysis cohort",
+   4223
+  ],
+  [
+   "Analysis cohort deaths",
+   451
+  ]
+ ]
+}
